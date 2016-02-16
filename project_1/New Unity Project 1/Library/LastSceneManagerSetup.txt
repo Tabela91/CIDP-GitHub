@@ -1,0 +1,5 @@
+sceneSetups:
+- path: H:/Semester 2/Computer Interface Design Principles/Unity Projects/Class Examples/Lesson
+    2 Worksheet/Assets/Scenes/scene1.unity
+  isLoaded: 1
+  isActive: 1
